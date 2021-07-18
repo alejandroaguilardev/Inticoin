@@ -1,0 +1,1 @@
+[25-Feb-2020 15:42:04 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/rostrodi/public_html/2020/inticoin2/php/conex_bd.php on line 2
